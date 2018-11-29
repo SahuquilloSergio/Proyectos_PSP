@@ -1,3 +1,10 @@
+/*
+Escribe unha clase que cree dous fíos e force que a escritura do segundo sexa sempre anterior á
+escritura por pantalla do primeiro.
+ Exemplo de ejecución:
+ Ola, son o fío número 2
+ Ola, son o fío número 1
+*/
 package threads5b;
 
 public class Threads5b extends Thread{
